@@ -8,7 +8,7 @@
 - 🎓 BS Computer Science student with a strong CGPA  
 - 💡 Focused on **Web Development**, **Machine Learning**, and **Data Science**  
 - 🔍 Strong foundation in **Database Systems**, **OOP**, and **Data Structures**  
-- 📊 Experienced with tools like **Power BI**, **Streamlit**, and **Tableau**  
+- 📊 Experienced with tools like **Power BI**, **SQL Server**, and **Tableau**  
 - 🛠️ Always building and improving real-world projects  
 
 ---
