@@ -22,10 +22,10 @@
 `React` `Node.js` `Express` `MongoDB` `TailwindCSS` `HTML5/CSS3` 
 
 **ML & Data**:  
-`Pandas` `Matplotlib` `Scikit-learn` `Power BI` `Streamlit` `Jupyter` `Tableau`  
+`Pandas` `Matplotlib` `Scikit-learn` `Power BI` `Jupyter` `Tableau`  
 
 **Tools & Platforms**:  
-`Git` `GitHub` `VS Code` `MySQL` `MS SQL Server` `Streamlit Cloud`
+`Git` `GitHub` `VS Code` `MySQL` `MS SQL Server` 
 
 ---
 
