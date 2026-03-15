@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Laiba Abdul Quddus 👋</h2>
-<p align="center">Computer Science Student | MERN Stack Dev | Python & SQL Enthusiast</p>
+<p align="center">Computer Science Student | FRONT END Dev | Python & SQL Enthusiast | ASPIRING DATA SCIENTIST </p>
 
 ---
 
@@ -19,22 +19,23 @@
 `Python` `JavaScript` `SQL` 
 
 **Web Dev**:  
-`React` `Node.js` `Express` `MongoDB` `TailwindCSS` `HTML5/CSS3` 
+`React` `JavaScript` `TailwindCSS` `HTML5/CSS3` 
 
 **ML & Data**:  
 `Pandas` `Matplotlib` `Scikit-learn` `Power BI` `Jupyter` `Tableau`  
 
 **Tools & Platforms**:  
-`Git` `GitHub` `VS Code` `MySQL` `MS SQL Server` 
+`Git` `GitHub` `VS Code` `MySQL` `MS SQL Server` `ORACLE 21C` 
 
 ---
 
 ### 📂 Notable Projects
 
-- **Career Recommender System** – ML + Streamlit app for career guidance  
-- **To-Do App** – Task management app built with React & Tailwind
-- **Smart Emergency Alert System** – Real-time emergency alert map using React & Leaflet
-- **Shopping Cart** – Full-stack eCommerce demo using MERN stack
+- **Personal Portfolio Website** – HTML, CSS, JavaScript – A responsive website showcasing skills, education, and projects.
+- **To-Do App** – React.js, Tailwind CSS – Task management app allowing users to add, edit, and delete tasks.
+- **Expense Tracker** – Python (CLI) – Command-line app to track personal expenses, calculate totals, and filter by category.
+- **Library Management System** – Python (OOP) – Manage books and users with add, search, update, and delete functions.
+- **Netflix Clone** – HTML, CSS – Responsive replica of Netflix Pakistan landing page with hero sections, media features, FAQs, and footer layout.
 
 ---
 
