@@ -19,13 +19,10 @@
 `Python` `JavaScript` `SQL` 
 
 **Web Dev**:  
-`React` `JavaScript` `TailwindCSS` `HTML5/CSS3` 
-
-**ML & Data**:  
-`Pandas` `Matplotlib` `Scikit-learn` `Power BI` `Jupyter` `Tableau`  
+`React` `JavaScript` `TailwindCSS` `HTML5/CSS3`   
 
 **Tools & Platforms**:  
-`Git` `GitHub` `VS Code` `MySQL` `MS SQL Server` `ORACLE 21C` 
+`Git` `GitHub` `VS Code` `MySQL` `MS SQL Server` `ORACLE 21C` `Power BI` `Jupyter` `Tableau`
 
 ---
 
