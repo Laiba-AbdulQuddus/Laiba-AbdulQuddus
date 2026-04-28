@@ -13,7 +13,7 @@ Passionate about building data-driven projects with SQL, Python and Machine Lear
 `Python` `SQL` `Data Cleaning` `Data Transformation`
 
 ### Data Visualization & Tools
-`Power BI` `Tableau` `Jupyter Notebook`
+`Power BI` `Tableau` `Jupyter Notebook` `SPSS`
 
 ### Databases
 `Oracle 21C` `Relational Databases`
