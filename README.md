@@ -10,23 +10,29 @@ Passionate about building data-driven projects with SQL, Python and Machine Lear
 ## 💻 Tech Stack
 
 ### Data & Programming
-`Python` `SQL` `Data Cleaning` `Data Transformation`
+`Python (Pandas, NumPy, Matplotlib)` `SQL`
 
-### Data Visualization & Tools
-`Power BI` `Tableau` `Jupyter Notebook` `SPSS`
+### Data Engineering Concepts
+`Data Cleaning` `Data Transformation` `ETL Pipeline`
 
 ### Databases
-`Oracle 21C` `Relational Databases`
+`SQL Server` `Oracle 21c` `Relational Databases`
 
-### Database Tools
-`Microsoft Access` `SSMS`
+### Tools & Technologies
+`SSMS` `Jupyter Notebook` `GitHub` `Visual Studio Code` `Microsoft Access`
 
-### Other Technologies
-`GitHub` `VS Code`
+### Data Visualization
+`Power BI` `Tableau` `SPSS`
 
 ---
 
 ## 📌 Featured Projects
+
+### 📊 ETL Sales Data Pipeline (Python, SQL Server)
+- Built an end-to-end ETL pipeline using Python (Pandas) and SQL Server
+- Extracted raw sales data from CSV and performed data cleaning, transformation, and preprocessing
+- Handled missing values, removed duplicates, and engineered new features like profit calculation
+- Loaded processed data into SQL Server for structured storage and analysis
 
 ### 🏥 NHS Prescriptions Data Analysis
 - Relational database design in SQL Server  
