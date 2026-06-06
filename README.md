@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laiba Abdul Quddus</h1>
-<h3 align="center">Aspiring Data Engineer | Data Science Enthusiast</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
 <p align="center">
 Passionate about building data-driven projects with SQL, Python and Machine Learning.
